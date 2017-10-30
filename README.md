@@ -1,2 +1,2 @@
 # express-mysql-1
-betta version --for learning perposes
+beta version --just for learning perposes
