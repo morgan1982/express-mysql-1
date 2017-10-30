@@ -5,11 +5,10 @@ const mysql = require('mysql');
 const cred = require('./credentials');
 
 // credentials
-user = cred['cred'].user;
-pass = cred['cred'].pass;
-host = cred['cred'].host;
-database = cred['cred'].database;
-
+user = cred.user;
+pass = cred.pass;
+host = cred.host;
+database = cred.database;
 
 // init app
 const app = express();
